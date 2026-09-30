@@ -1,0 +1,31 @@
+import Japanese
+
+#print axioms Japanese.chordDist_swap
+#print axioms Japanese.triInradius_eq
+#print axioms Japanese.diagonal_signedSideDist_cancel
+#print axioms Japanese.japanese_quadrilateral
+#print axioms Japanese.quadrilateral_inradius_sum
+#print axioms Japanese.inradiusSum_eq
+#print axioms Japanese.inradiusSum_polygon
+#print axioms Japanese.japanese_polygon
+#print axioms Japanese.japanese_subpolygon
+#print axioms Japanese.japanese_fans
+#print axioms Japanese.Triangulation.length_triangles
+#print axioms Japanese.Triangulation.isTriangulation
+#print axioms Japanese.IsTriangulation.exists_tree
+#print axioms Japanese.isTriangulation_iff_exists_tree
+#print axioms Japanese.Triangulation.chords_injective
+#print axioms Japanese.treeEquiv
+#print axioms Japanese.Triangulation.toFinset_triangles
+#print axioms Japanese.IsTriangulation.exists_tree_triangles
+#print axioms Japanese.IsTriangulation.card_triangleSet
+#print axioms Japanese.inradiusSum_eq_triangleInradiusSum
+#print axioms Japanese.triangleInradiusSum_eq
+#print axioms Japanese.japanese_polygon_combinatorial
+#print axioms Japanese.exists_sbtw_sbtw_of_areaForm
+#print axioms Japanese.not_wbtw_wbtw_of_pos
+#print axioms Japanese.not_sbtw_sbtw_of_ne_zero
+#print axioms Japanese.sbtw_inter_iff_interleave
+#print axioms Japanese.geomCrosses_iff
+#print axioms Japanese.isGeomTriangulation_iff
+#print axioms Japanese.japanese_polygon_geometric

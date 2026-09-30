@@ -1,0 +1,6 @@
+n=4: 2 triangulations x 200 polygons checked
+n=5: 5 triangulations x 200 polygons checked
+n=6: 14 triangulations x 200 polygons checked
+n=7: 42 triangulations x 200 polygons checked
+total triangulations checked: 12600, max relative error: 1.423e-15
+OK

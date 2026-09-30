@@ -1,0 +1,8 @@
+n=2: maximal non-crossing sets = 1, trees = 1, Catalan(0) = 1, sets equal: True, ok=True
+n=3: maximal non-crossing sets = 1, trees = 1, Catalan(1) = 1, sets equal: True, ok=True
+n=4: maximal non-crossing sets = 2, trees = 2, Catalan(2) = 2, sets equal: True, ok=True
+n=5: maximal non-crossing sets = 5, trees = 5, Catalan(3) = 5, sets equal: True, ok=True
+n=6: maximal non-crossing sets = 14, trees = 14, Catalan(4) = 14, sets equal: True, ok=True
+n=7: maximal non-crossing sets = 42, trees = 42, Catalan(5) = 42, sets equal: True, ok=True
+n=8: maximal non-crossing sets = 132, trees = 132, Catalan(6) = 132, sets equal: True, ok=True
+ALL OK
